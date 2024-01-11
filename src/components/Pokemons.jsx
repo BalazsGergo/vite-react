@@ -1,4 +1,7 @@
+/* eslint-disable react/prop-types */
 import Pokemon from "./Pokemon"
+
+import './Pokemons.css'
 
 function Pokemons({ pokemons }) {
 	return (
